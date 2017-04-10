@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_my_profile"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="My Profile" />
+        <item
+            android:id="@+id/nav_big_picture"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="The Big Picture" />
+        <item
+            android:id="@+id/nav_community"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Community" />
+        <item
+            android:id="@+id/nav_leaderboard"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Leaderboard" />
+        <item
+            android:id="@+id/nav_dis_voucher"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="My Discount Voucher" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="How to Share" />
+    </group>
+
+</menu>

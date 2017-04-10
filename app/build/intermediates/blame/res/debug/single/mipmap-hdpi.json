@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

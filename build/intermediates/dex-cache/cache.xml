@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\fastlane\.android\build-cache\fbc3d4f2ac2c53f311739490dee48bb1093f37f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="11262f887015dc774ff36eb66698308df0a376d1">
+        <dex dex="D:\HereYaG\app\build\intermediates\pre-dexed\debug\classes_372b54db41af9f71530cecf02cae8ab235e00ac3.jar" />
+    </item>
+
+</items>

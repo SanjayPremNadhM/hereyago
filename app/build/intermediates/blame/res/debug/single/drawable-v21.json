@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\login_cart.png",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\drawable-v21\\login_cart.png"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\arrow_right.png",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\drawable-v21\\arrow_right.png"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\fastlane\\.android\\build-cache\\d1e98dab0e3281d5d1cb92bf365e54f3961fbd91\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\arrow_left.png",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\drawable-v21\\arrow_left.png"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\fastlane\\.android\\build-cache\\c9f497a11871c4f882d889fad6aa5bb0a7674392\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\login_animation.png",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\drawable-v21\\login_animation.png"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\fastlane\\.android\\build-cache\\d1e98dab0e3281d5d1cb92bf365e54f3961fbd91\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\login_people.png",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\drawable-v21\\login_people.png"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\fastlane\\.android\\build-cache\\d1e98dab0e3281d5d1cb92bf365e54f3961fbd91\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\fastlane\\.android\\build-cache\\d1e98dab0e3281d5d1cb92bf365e54f3961fbd91\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\password.png",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\drawable-v21\\password.png"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\sign_login_bg.png",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\drawable-v21\\sign_login_bg.png"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\fastlane\\.android\\build-cache\\c9f497a11871c4f882d889fad6aa5bb0a7674392\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\name.png",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\drawable-v21\\name.png"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\nick_name.png",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\drawable-v21\\nick_name.png"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\fastlane\\.android\\build-cache\\c9f497a11871c4f882d889fad6aa5bb0a7674392\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\fb_logo_circular.png",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\drawable-v21\\fb_logo_circular.png"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\email.png",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\drawable-v21\\email.png"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\login_laugh.png",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\drawable-v21\\login_laugh.png"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\fastlane\\.android\\build-cache\\c9f497a11871c4f882d889fad6aa5bb0a7674392\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\upload.png",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\drawable-v21\\upload.png"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\twitter_logo_circular.png",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\drawable-v21\\twitter_logo_circular.png"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    }
+]

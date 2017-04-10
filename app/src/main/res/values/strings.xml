@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">HereYaGo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="my_profile">My profile</string>
+    <string name="big_pic">The Big Picture</string>
+    <string name="community">Community</string>
+    <string name="leader_board">Leaderboard</string>
+    <string name="disc_voucher">My Discount Voucher</string>
+    <string name="how_to_share">How to Share</string>
+    <string name="in_progress">In Progress</string>
+    <string name="signin">Sign In</string>
+    <string name="login">LOGIN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="upload_your_pic">Upload Profile Picture</string>
+    <string name="your_name">Your Name</string>
+    <string name="nick_name">Nick Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="or_signup_with">Or SignUp with</string>
+    <string name="next">NEXT</string>
+
+
+</resources>

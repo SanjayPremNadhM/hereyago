@@ -1,0 +1,102 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from D:\HereYaG\app\src\main\AndroidManifest.xml
+		INJECTED from D:\HereYaG\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\HereYaG\app\src\main\AndroidManifest.xml
+		INJECTED from D:\HereYaG\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\HereYaG\app\src\main\AndroidManifest.xml
+		INJECTED from D:\HereYaG\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support:design:25.2.0] C:\Users\fastlane\.android\build-cache\d1e98dab0e3281d5d1cb92bf365e54f3961fbd91\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\fastlane\.android\build-cache\c9f497a11871c4f882d889fad6aa5bb0a7674392\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\fastlane\.android\build-cache\58defe0ad6186cebc7f8f19026930efd78889706\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\fastlane\.android\build-cache\eb20a9be642f6d6f838c9b259b2d3efe4c9ce0c9\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\fastlane\.android\build-cache\28127ef244a4541657f4c378003c3ebb069ec4fe\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\fastlane\.android\build-cache\dc7dc3be705769e8d5fcee3af0175d12b32028bf\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\fastlane\.android\build-cache\08074953271c4b21436bd6543a5c8ea17ed9ec3c\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\fastlane\.android\build-cache\6ac339f9e422829c36890997f8f574864366d04a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\fastlane\.android\build-cache\bf0bb1ad5e4750503050b97a807d2177f5dd702a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\fastlane\.android\build-cache\b10f68a429cbdf8ebcb848c477e9b5048ea5d29e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\fastlane\.android\build-cache\b064504581581c2282f5c02117c1de6796485db0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\fastlane\.android\build-cache\b8c9c232dfb81e6a8381d0654102049ca0cad90a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\fastlane\.android\build-cache\7bf9c198932196e83f02f9c36001a88ea7f09966\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:11:9-40
+activity#firebasestorage.itideology.com.hereyago.SplashScreenActivity
+ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:13:13-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:19:27-74
+activity#firebasestorage.itideology.com.hereyago.HomeScreenActivity
+ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:22:9-23:46
+	android:theme
+		ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:23:13-44
+	android:name
+		ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:22:19-53
+activity#firebasestorage.itideology.com.hereyago.SignUpActivity
+ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:24:9-25:56
+	android:windowSoftInputMode
+		ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:25:13-54
+	android:name
+		ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:24:19-49
+activity#firebasestorage.itideology.com.hereyago.LoginActivity
+ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:26:9-60
+	android:name
+		ADDED from D:\HereYaG\app\src\main\AndroidManifest.xml:26:19-48
+uses-sdk
+INJECTED from D:\HereYaG\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.2.0] C:\Users\fastlane\.android\build-cache\d1e98dab0e3281d5d1cb92bf365e54f3961fbd91\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\fastlane\.android\build-cache\c9f497a11871c4f882d889fad6aa5bb0a7674392\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\fastlane\.android\build-cache\58defe0ad6186cebc7f8f19026930efd78889706\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\fastlane\.android\build-cache\eb20a9be642f6d6f838c9b259b2d3efe4c9ce0c9\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\fastlane\.android\build-cache\28127ef244a4541657f4c378003c3ebb069ec4fe\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\fastlane\.android\build-cache\dc7dc3be705769e8d5fcee3af0175d12b32028bf\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\fastlane\.android\build-cache\fee0eac6ef77ffe95495774db73469e22ffbd598\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\fastlane\.android\build-cache\d768e4a79d668eabc4a57d196b86e5c5dd107c5b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\fastlane\.android\build-cache\08074953271c4b21436bd6543a5c8ea17ed9ec3c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\fastlane\.android\build-cache\6ac339f9e422829c36890997f8f574864366d04a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\fastlane\.android\build-cache\bf0bb1ad5e4750503050b97a807d2177f5dd702a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\fastlane\.android\build-cache\b10f68a429cbdf8ebcb848c477e9b5048ea5d29e\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\fastlane\.android\build-cache\b064504581581c2282f5c02117c1de6796485db0\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\fastlane\.android\build-cache\b8c9c232dfb81e6a8381d0654102049ca0cad90a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\fastlane\.android\build-cache\7bf9c198932196e83f02f9c36001a88ea7f09966\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.intuit.sdp:sdp-android:1.0.4] C:\Users\fastlane\.android\build-cache\fbc3d4f2ac2c53f311739490dee48bb1093f37f7\output\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\fastlane\.android\build-cache\d1e98dab0e3281d5d1cb92bf365e54f3961fbd91\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\HereYaG\app\src\main\AndroidManifest.xml
+		INJECTED from D:\HereYaG\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\HereYaG\app\src\main\AndroidManifest.xml
+		INJECTED from D:\HereYaG\app\src\main\AndroidManifest.xml

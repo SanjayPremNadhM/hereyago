@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home_screen.xml",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\menu\\home_screen.xml"
+    },
+    {
+        "merged": "D:\\HereYaG\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_screen_drawer.xml",
+        "source": "D:\\HereYaG\\app\\src\\main\\res\\menu\\activity_home_screen_drawer.xml"
+    }
+]
